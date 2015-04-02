@@ -1,7 +1,7 @@
-Simple Programming Guidelines
+Guides
 =============================
 
-Guides for getting things done, getting along, programming well, and programming in style.
+Simple guidelines for getting things done, getting along, programming well, and programming in style.
 
 High level guidelines:
 
