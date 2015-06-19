@@ -6,7 +6,7 @@ Project naming
 
 We´ll use the format: 
 
-<project-type>-<project-name>-<client>
+`<project-type>-<project-name>-<client>`
 
 where
 * `<project-type>` would be: api, app o web
